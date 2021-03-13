@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GmailCreateAccountwithuseofVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82579b57-647e-4875-bab8-cccb06f2d88c</testCaseGuid>
+   <variable>
+      <defaultValue>'Ali'</defaultValue>
+      <description></description>
+      <id>daf65984-036e-485a-a184-52537854f6dc</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hassan'</defaultValue>
+      <description></description>
+      <id>08dce987-be62-487e-9b81-251c3c6875a9</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ah123212344'</defaultValue>
+      <description></description>
+      <id>c5134095-9220-4101-8d8b-7b4775253547</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'o+tS4OuGt32s9ezZj287yw=='</defaultValue>
+      <description></description>
+      <id>59b967eb-5f64-4776-a5da-6b6f191c06ff</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'o+tS4OuGt32s9ezZj287yw=='</defaultValue>
+      <description></description>
+      <id>3f0693a9-659d-4659-9474-d06ff43ba71e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
