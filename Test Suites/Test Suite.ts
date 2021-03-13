@@ -53,4 +53,10 @@
          <variableId>3f0693a9-659d-4659-9474-d06ff43ba71e</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c5f73b1a-67f2-41e4-965b-2b340f06e3df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Service Request/Sprint 1/Update EGN Details/SR - Check book request from CRM</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
